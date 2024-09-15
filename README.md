@@ -9,3 +9,5 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codificação do nosso programa. Depois de todas as informações terem sido inseridas, o sistema deverá exibir a seguinte mensagem:"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque". Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 - Fluxo de Contagem:
 O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros, com estes dois números você deverá obter a quantidade de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados, exemplo:
+- Diagramação e representação
+Neste desafio, você será responsável por modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
